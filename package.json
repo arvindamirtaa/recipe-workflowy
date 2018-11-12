@@ -1,0 +1,13 @@
+{
+  "id": "workflowy",
+  "name": "Workflowy",
+  "version": "0.0.1",
+  "description": "Organize your brain",
+  "main": "index.js",
+  "author": "Arvind Nedumaran <arvindamirtaa@gmai.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://workflowy.com",
+    "hasNotificationSound": false
+  }
+}
